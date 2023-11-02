@@ -11,7 +11,7 @@ I got tired of running individual commands all the time, so I created some scrip
 
 , or copy / paste the code from the `install_docker_nproxyman.sh` file into a file on your server. 
 
-`nano docker-install.sh`
+`nano install_docker_nproxyman.sh`
 
 to open a text editor in the terminal, then use CTRL + Shift + V to paste into it.
 
@@ -19,11 +19,11 @@ Save with CTRL + O, then Enter to confirm, and exit the nano editor with CTRL + 
 
 2. Change the permissions of the .sh file to make it executable with.
 
-`chmod +x docker-install.sh`
+`chmod +x install_docker_nproxyman.sh`
 
 3. Run the installer with
 
-`./docker-install.sh`
+`./install_docker_nproxyman.sh`
 
 ## Prompts from the script:
 First, you'll be prompted to select the number for your OS / Distro.  Currently I support RaspbianOS (latest), CentOS 7 and 8, Debian 10 and 11, Ubuntu 18.04, 20.04, 22.04, 23.05, Arch Linux, and Open Suse (tested on Leap 15.4). 
