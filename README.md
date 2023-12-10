@@ -72,5 +72,5 @@ If you find issues, please let me know. I'm always open to new contributors help
 ## Licensing
 My script is offered without warranty against defect, and is free for you to use any way / time you want.  You may modify it in any way you see fit.  Please see the individual project pages of the software packages for their licensing.
 
-## Contributors
-@binuengoor
+## Origin
+Originally copy from Brian McGonagill https://gitlab.com/bmcgonag
